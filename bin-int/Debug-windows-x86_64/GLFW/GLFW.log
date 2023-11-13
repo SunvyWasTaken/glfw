@@ -1,0 +1,19 @@
+﻿cl : ligne de commande  warning D9002: option '-std=c11' inconnue ignorée
+cl : ligne de commande  warning D9002: option '-lgdi32' inconnue ignorée
+  context.c
+  egl_context.c
+  init.c
+  input.c
+  monitor.c
+  osmesa_context.c
+  vulkan.c
+  wgl_context.c
+  win32_init.c
+  win32_joystick.c
+  win32_monitor.c
+  win32_thread.c
+  win32_time.c
+  win32_window.c
+  window.c
+  Génération de code en cours...
+  GLFW.vcxproj -> C:\Users\Sunvy\source\repos\Tulip\Tulip\vendor\GLFW\bin\Debug-windows-x86_64\GLFW\GLFW.lib
