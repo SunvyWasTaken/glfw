@@ -15,8 +15,9 @@ MinSizeRel
 RelWithDebInfo
 *.xcodeproj
 
-[Bb]in/
+bin/
 bin-int/
+Intermediates/
 
 # CMake files
 Makefile
